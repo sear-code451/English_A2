@@ -1,22 +1,13 @@
 # Verb "to be" in present tense (normal, negative and interrogative)
 
-* **I** Yo
-* **You** Tú
-* **He** Él
-* **She** Ella
-* **We** Nosotros
-* **It** Neutro 
-* **You** Ustedes
-* **They** Ellos
-
-* I **am** Yo soy
-* You **are** Tú eres
-* He **is** Él es
-* She **is** Ella es
-* We **are** Nosotros somos
-* It **is** Esto es 
-* You **are** Ustedes son
-* They **are** Ellos son
+* **I** Yo               I **am** Yo soy
+* **You** Tú             You **are** Tú eres    
+* **He** Él              He **is** Él es
+* **She** Ella           She **is** Ella es    
+* **We** Nosotros        We **are** Nosotros somos        
+* **It** Neutro          It **is** Esto es         
+* **You** Ustedes        You **are** Ustedes son        
+* **They** Ellos         They **are** Ellos son        
 
 ***
 
