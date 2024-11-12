@@ -35,15 +35,13 @@ Los verbos regulares que terminan en “e” en el presente simple solo necesita
 - Smile (sonreír) – smiled (sonrió)
 - Manage (administrar) – managed (administró)
 - Imagine (imaginar) – imagined (imaginó)
-- Like (gustar) – liked (gustó)
-- Live (vivir) – lived (vivió)
 
 <br/>
 
 **Verbos regulares que se les agrega la 'ed' al final para formar el pasado.**
 
 * Si éste termina en consonante como (talk, walk, clean etc).
-* Termina en consunante-vocal-consonante, como en “play”, en este caso se agrega “ed” sin quitar la “y”, ej: play–played (y no plaied).
+* Termina en consonante-vocal-consonante, como en “play”, en este caso se agrega “ed” sin quitar la “y”, ej: play–played (y no plaied).
 
 **EJEMPLO:**
 
